@@ -1,0 +1,3 @@
+com\exchangeRate\exchangeRate_Rest_API\config\SpringMvcDispatcherServletInitializer.class
+com\exchangeRate\exchangeRate_Rest_API\controller\ExchangeRateController.class
+com\exchangeRate\exchangeRate_Rest_API\config\AppConfig.class
